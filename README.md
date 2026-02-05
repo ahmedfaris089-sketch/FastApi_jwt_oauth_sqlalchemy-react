@@ -105,9 +105,3 @@ C:\Users\ahmed\Downloads\FASTAPI\files\
 
 ---
 
-
-
-## 📞 Need Help?
-
-All documentation is preserved in the `.gemini` folder and will persist across sessions. You can always access it from the path shown above!
-
